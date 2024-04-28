@@ -10,7 +10,7 @@ Predict : Uses velocity to predict your target
 
 HitPoint : Target Part ( HumaniodRootPart, Head etc )
 
-NearestOptimalPoint : Finds nearest point on target and uses that point instead of speficic aimpoint
+NearestOptimalPoint : Finds nearest point on target and uses that point instead of specific aimpoint
 
 Range Threshold : Will count by studs to determine if they are in stud count and make them valid target or exclude them
 
