@@ -18,7 +18,7 @@ Velocity Check : Will calculate the targets hrp velocity ( aa/Vector3 detection 
 
 Resolver : Delta ( recal velocity ), MoveDirection ( hrp movedirection * velocity ), Suppress Velocity ( Checks if hrp is (0, 0, 0)
 
-Default... Airshot... : Default... ( regular value ) Airshot... ( value if target in air or falling )
+No Ground Shots : Checks if target is in falling state and changes prediction on the Y axis according to their velocity.
 
 Rangemanagement : ...Detection ( THIS USES STUDS. IF YOU DONT KNOW ANYTHING ABOUT IT LEAVE IT ALONE. ) Type ( Both = FOV and Prediction is affected by range management ) Only FOV ( Self explanatory ) Only Prediction ( Self Explanatory
 
